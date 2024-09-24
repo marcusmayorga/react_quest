@@ -5,6 +5,7 @@ function App() {
     {id: 1, text: 'Comment One'},
     {id: 2, text: 'Comment Two'},
     {id: 3, text: 'Comment Three'},
+    {id: 4, text: 'Comment Four'}
   ]
   return (
     <div className='container'>
